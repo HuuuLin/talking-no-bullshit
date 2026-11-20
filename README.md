@@ -11,6 +11,7 @@
 ```powershell
 git clone https://github.com/Mapleiu/talking-no-bullshit.git "$HOME/.codex/skills/talking-no-bullshit"
 ```
+或者将该仓库链接直接发给codex来安装
 
 ## 使用
 
