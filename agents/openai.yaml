@@ -1,0 +1,4 @@
+interface:
+  display_name: "Talking_No_Bullshit"
+  short_description: "生成前约束技术文稿：报告/论文用学术模式，消除语言腐败与 AI 腔，检查符号、论证与结构"
+  default_prompt: "使用 $talking-no-bullshit 在生成前组织内容：报告/论文启用学术模式（无人称与主观感悟、陈述而非说教、限定预算、指代明确），直接写出表达清楚、定义明确、论证有据的技术文稿。"
